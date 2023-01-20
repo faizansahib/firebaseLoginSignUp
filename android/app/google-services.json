@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "706492833471",
+    "project_id": "loginproc-a881e",
+    "storage_bucket": "loginproc-a881e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706492833471:android:4f7a557b9da8692734300a",
+        "android_client_info": {
+          "package_name": "com.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706492833471-50ouglc7qhetv6pgiqjinumb2lsp9m3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDisSgY1uQZhdd_HgPcyw-t-5lwMnn-9yI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706492833471-50ouglc7qhetv6pgiqjinumb2lsp9m3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
